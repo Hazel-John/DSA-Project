@@ -1,0 +1,6 @@
+ddd / 9287516571 / Bangladesh / Biotechnology / Applied
+bbb / 9953152234 / Tokyo / Electronics / Rejected
+aaa / 9977112388 / India / Computer Science / Applied
+ccc / 9244231355 / India / Computer Science / Rejected
+eee / 9982154788 / India / Computer Science / Approved
+bbb / 9953152234 / Nepal / Electronics / Applied
